@@ -6,7 +6,7 @@ I'm a third-year **IUT student** specializing in **Application Development**, an
 
 ## 🔧 Technologies & Tools I Use
 
-- **Languages**: PHP, JavaScript, C, TypeScript, HTML, CSS, Bash, Assembly
+- **Languages**: PHP, JavaScript, C, TypeScript, HTML, CSS, Bash
 - **Frameworks & Libraries**: Symfony, Angular, Svelte, Flutter, Bootstrap, Tailwind
 - **Tools**: Docker, Git
 - **Other**: Web development, App development, Open-source contributions
