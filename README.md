@@ -13,8 +13,8 @@ I'm a third-year **IUT student** specializing in **Application Development**, an
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://fr.linkedin.com/in/nicolas-madec-1b57a2295) (you can replace this with your actual LinkedIn URL)
-- [Personal Portfolio](https://mdcnico.github.io/) (add your portfolio if you have one)
+- [LinkedIn](https://fr.linkedin.com/in/nicolas-madec-1b57a2295) 
+- [Personal Portfolio](https://mdcnico.github.io/) 
 
 ## 🌱 Currently learning
 
